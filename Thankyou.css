@@ -1,0 +1,57 @@
+
+body
+{
+	margin:10px auto;
+	width:900px;
+	border-radius: 10px;
+}
+
+h1
+{
+	font-size:25px;
+}
+
+h1,h2
+{
+	padding:10px;
+}
+
+table
+{
+	font-size:20px;
+	width:580px;
+	margin:0px auto 1px auto;
+}
+
+td
+{
+	padding: 2px;
+	margin: 5px;
+}
+
+.Bill
+{
+	border:#000 solid 2.5px;
+	padding:5px;
+	width:660px;
+    font-size: 25px;
+	margin: auto;
+	color:black;
+	border-radius: 10px;
+	padding-bottom: 25px;
+}
+
+.address
+{
+	text-align:right;
+}
+
+
+.highlight
+{
+	font-weight:bold;
+}
+
+
+
+
